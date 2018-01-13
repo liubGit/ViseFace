@@ -1,16 +1,6 @@
 # ViseFace
 简易人脸检测库，不依赖三方库，可快速接入人脸检测功能。
 
-[![License](https://img.shields.io/badge/License-Apache--2.0-green.svg)](https://github.com/xiaoyaoyou1212/ViseFace/blob/master/LICENSE) [![API](https://img.shields.io/badge/API-9%2B-brightgreen.svg?style=flat)](https://android-arsenal.com/api?level=9)
-
-- 项目地址：[https://github.com/xiaoyaoyou1212/ViseFace](https://github.com/xiaoyaoyou1212/ViseFace)
-
-- 项目依赖：`compile 'com.vise.xiaoyaoyou:viseface:1.0.0'`
-
-### 版本说明
-[![LatestVersion](https://img.shields.io/badge/LatestVersion-1.0.0-orange.svg)](https://github.com/xiaoyaoyou1212/ViseFace/blob/master/VERSION.md)
-
-### 代码托管
 [![JCenter](https://img.shields.io/badge/JCenter-1.0.0-orange.svg)](https://jcenter.bintray.com/com/vise/xiaoyaoyou/viseface/1.0.0/)
 
 ### 为什么打造该库
@@ -148,15 +138,3 @@ if (mDetectorProxy != null) {
     mDetectorProxy.release();
 }
 ```
-
-### 关于我
-[![Website](https://img.shields.io/badge/Website-huwei-blue.svg)](http://www.huwei.tech/)
-
-[![GitHub](https://img.shields.io/badge/GitHub-xiaoyaoyou1212-blue.svg)](https://github.com/xiaoyaoyou1212)
-
-[![CSDN](https://img.shields.io/badge/CSDN-xiaoyaoyou1212-blue.svg)](http://blog.csdn.net/xiaoyaoyou1212)
-
-### 最后
-如果觉得该项目有帮助，请点下Star，您的支持是我开源的动力。如果有好的想法和建议，也欢迎Fork项目参与进来。使用中如果有任何问题和建议都可以进群交流，QQ群二维码如下：
-
-![QQ群](http://img.blog.csdn.net/20170327191310083)
